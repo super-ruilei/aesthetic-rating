@@ -1,0 +1,8 @@
+click==6.6
+requests==2.13.0
+pandas==0.18.1
+
+# fisher
+numpy==1.13.3
+scipy==1.0.0
+scikit-learn==0.19.1
